@@ -1,3 +1,15 @@
+/*********************************************************************************
+*  WEB422 – Assignment 3
+*
+*  I declare that this assignment is my own work in accordance with Seneca's
+*  Academic Integrity Policy:
+* 
+*  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
+* 
+*  Name: KRUTIN BHARATBHAI POLRA Student ID: 135416220 Date: October 12th, 2024
+*
+********************************************************************************/ 
+
 import React, { useState, useEffect } from 'react';
 import useSWR from 'swr';
 import { Accordion, Pagination, Container, Row, Col } from 'react-bootstrap';
