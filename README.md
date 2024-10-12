@@ -43,8 +43,8 @@ This project is deployed on **Vercel** for seamless and fast delivery.
 
 ## 📧 Contact
 If you're looking for a passionate developer to join your team, feel free to reach out:  
-**Email:** yourname@email.com  
-**LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+**Email:** krutinpolra1444@gmail.com  
+**LinkedIn:** [www.linkedin.com/in/krutinpolra1444](www.linkedin.com/in/krutinpolra1444)
 
 ---
 
