@@ -24,13 +24,13 @@ A modern web application built with **Next.js** for exploring countries across t
 
 ## 📁 Project Structure Overview
 
-/pages               # Contains all page components 
-├── index.js         # Home page with country listings 
-├── countries        
-│   └── [id].js      # Dynamic route for country details
+/pages               # Contains all page components   
+├── index.js         # Home page with country listings   
+├── countries          
+│   └── [id].js      # Dynamic route for country details  
 
-/api                 # API routes for countries data 
-/components          # Reusable components (CountryDetails, PageHeader)
+/api                 # API routes for countries data   
+/components          # Reusable components (CountryDetails, PageHeader)  
 
 ---
 
