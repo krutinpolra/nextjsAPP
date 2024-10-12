@@ -44,7 +44,7 @@ This project is deployed on **Vercel** for seamless and fast delivery.
 ## 📧 Contact
 If you're looking for a passionate developer to join your team, feel free to reach out:  
 **Email:** krutinpolra1444@gmail.com  
-**LinkedIn:** [www.linkedin.com/in/krutinpolra1444](www.linkedin.com/in/krutinpolra1444)
+**LinkedIn:** [www.linkedin.com/in/krutinpolra1444]()
 
 ---
 
